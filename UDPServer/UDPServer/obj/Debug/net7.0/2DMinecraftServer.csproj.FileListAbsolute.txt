@@ -1,0 +1,15 @@
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\bin\Debug\net7.0\2DMinecraftServer.exe
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\bin\Debug\net7.0\2DMinecraftServer.deps.json
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\bin\Debug\net7.0\2DMinecraftServer.runtimeconfig.json
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\bin\Debug\net7.0\2DMinecraftServer.dll
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\bin\Debug\net7.0\2DMinecraftServer.pdb
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.csproj.AssemblyReference.cache
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.AssemblyInfoInputs.cache
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.AssemblyInfo.cs
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.csproj.CoreCompileInputs.cache
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.dll
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\refint\2DMinecraftServer.dll
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.pdb
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\2DMinecraftServer.genruntimeconfig.cache
+C:\Users\barry\source\repos\2DMinecraftServer\2DMinecraftServer\obj\Debug\net7.0\ref\2DMinecraftServer.dll
